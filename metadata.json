@@ -1,0 +1,6 @@
+{
+  "name": "Shopee Title Booster - Generator Judul Terlaris No. 1",
+  "description": "Generator dan optimizer judul produk Shopee berbasis algoritma SEO e-commerce untuk upload pertama agar produk auto ranking 1, banjir traffic, dan mendongkrak penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
